@@ -9,7 +9,7 @@ module.exports = {
                 },
                 prerelease: false,
                 draft: true,
-                authToken: "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",
+                authToken: "",
                 force: true,
                 generateReleaseNotes: true,
                 tagPrefix: 'uat'
