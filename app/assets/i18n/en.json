@@ -1,0 +1,25 @@
+{
+    "global": {
+        "network-error": "Network Error, Please try later."
+    },
+    "setup": {
+        "camera-permissions": "Please turn on camera permissions",
+        "scan-text": "Please scan the Universal Device QR code from console.",
+        "scan-qr": "Scan QR",
+        "installation-code": "Installation Code",
+        "install": "Install",
+        "store": "Store",
+        "type": "Type",
+        "number": "Number",
+        "activate-device": "Activate Device",
+        "remove-device": "Remove Device",
+        "cancel": "Cancel",
+        "auto-activate": "Auto Activate in",
+        "stop-scan": "Stop Scan",
+        "check-your-code": "Please Check Your Installation Code",
+        "check-your-qrcode": "Please Check Your Qr Code"
+    },
+    "logout": {
+        "continue": "CONTINUE"
+    }
+}

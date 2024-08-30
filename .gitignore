@@ -1,8 +1,14 @@
-# See http://help.github.com/ignore-files/ for more about ignoring files.
-
-# compiled output
-/dist
+# NPM renames .gitignore to .npmignore
+# In order to prevent that, we remove the initial "."
+# And the CLI then renames it
+node_modules
+build
 dist
+logs
+
+out/
+
+
 
 /build/*
 

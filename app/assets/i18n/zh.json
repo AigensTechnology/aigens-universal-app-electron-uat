@@ -1,0 +1,25 @@
+{
+    "global": {
+        "network-error": "網絡錯誤, 請稍後再試"
+    },
+    "setup": {
+        "camera-permissions": "請打開相機權限",
+        "scan-text": "請從控制台掃描設備二維碼。",
+        "scan-qr": "掃描二維碼",
+        "installation-code": "安裝碼",
+        "install": "安裝",
+        "store": "店",
+        "type": "類型",
+        "number": "號",
+        "activate-device": "激活設備",
+        "remove-device": "刪除設備",
+        "cancel": "取消",
+        "auto-activate": "自動激活於",
+        "stop-scan": "停止掃描",
+        "check-your-code": "請檢查你的安裝碼",
+        "check-your-qrcode": "請檢查你的二維碼"
+    },
+    "logout": {
+        "continue": "繼續"
+    }
+}
